@@ -32,4 +32,4 @@ Tôi chia quá trình học thành các phần nhỏ để dễ theo dõi:
    ```bash
    git clone [https://github.com/username-cua-ban/ten-repo.git](https://github.com/username-cua-ban/ten-repo.git)
 
-----------------------------------------------------------------------------File README này được viết bởi Gemini Pro-----------------------------------------------------------------------------------------------------------------
+-------------------------------------File README này được viết bởi Gemini Pro-------------------------------------
